@@ -25,7 +25,7 @@
 
 🔭 I'm keenly exploring the ever-evolving landscape of MERN stack technologies to create innovative solutions. Here are some projects I've worked on:
 
-1. **QR-Genius: URL QR Code Generator(https://qr-genius.onrender.com/)**
+1. **QR-Genius: URL QR Code Generator(https://urlqrgenerator-nsrv.onrender.com)**
    QR-Genius is a web application designed to streamline the generation of QR codes for URLs. It features an intuitive interface and QR code history management, all built with Node.js, Express.js, MongoDB, Bootstrap, and CSS.
 
 2. **ASBplix - Modern Streaming Platform(https://amandeepsinghbhalla.github.io/ASBplix/)**
