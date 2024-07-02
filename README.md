@@ -25,13 +25,16 @@
 
 🔭 I'm keenly exploring the ever-evolving landscape of MERN stack technologies to create innovative solutions. Here are some projects I've worked on:
 
-1. **QR-Genius: URL QR Code Generator(https://urlqrgenerator-nsrv.onrender.com)**
+1. **Job Watch: An AI-Powered Job Search Platform(https://jobwatch.onrender.com/)**
+   Job Watch is an AI-powered platform enhancing job searches for tech professionals with aggregated listings from LinkedIn, interactive data visualizations, and AI-driven job recommendations based on resumes. It offers insights into companies, including ratings and salaries, and is built with HTML, CSS, JavaScript, Bootstrap, EJS, Node.js, Express.js, and MongoDB Atlas for a user-friendly interface and efficient job discovery.
+
+2. **QR-Genius: URL QR Code Generator(https://urlqrgenerator-nsrv.onrender.com)**
    QR-Genius is a web application designed to streamline the generation of QR codes for URLs. It features an intuitive interface and QR code history management, all built with Node.js, Express.js, MongoDB, Bootstrap, and CSS.
 
-2. **ASBplix - Modern Streaming Platform(https://amandeepsinghbhalla.github.io/ASBplix/)**
+3. **ASBplix - Modern Streaming Platform(https://amandeepsinghbhalla.github.io/ASBplix/)**
    ASBplix is a modern streaming platform offering the latest movies, TV shows, and exclusive AP Originals. With a sleek interface and user-centric features, ASBplix ensures an immersive entertainment experience across devices.
 
-3. **Simon Memory Game(https://amandeepsinghbhalla.github.io/simon-gaame/)**
+4. **Simon Memory Game(https://amandeepsinghbhalla.github.io/simon-gaame/)**
    The Simon Memory Game is a classic memory and pattern recognition game implemented using HTML, CSS, and JavaScript. It features responsive design, engaging audiovisual feedback, and mobile vibration support for an enjoyable gaming experience.
 
 
